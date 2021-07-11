@@ -11,3 +11,6 @@
   * [링크](https://github.com/SSUHYUNKIM/soul-cinema)
 
 ### 컴파일러구성(Compiler Construction)(01)
+* Project
+  * 어휘분석기
+  * [링크](https://github.com/SSUHYUNKIM/2021_01/tree/main/Compiler%20Construction)
